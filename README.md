@@ -28,7 +28,7 @@ You can run queries directly from the client. Get started by creating a database
 ```
 CREATE DATABASE myNewDatabase;
 ```
-Check out some [examples here](docs/examples) for help.
+Check out some [examples here](docs/examples.md) for help.
 
 ## 📁 Project Structure
 

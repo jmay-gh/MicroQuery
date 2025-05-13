@@ -1,0 +1,7 @@
+edu/uob/LexerTests.class
+edu/uob/ExampleDBTests.class
+edu/uob/ErrorTests.class
+edu/uob/OutputTests.class
+edu/uob/ASTTests.class
+edu/uob/ParserTests.class
+edu/uob/ConditionTests.class
